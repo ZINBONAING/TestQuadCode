@@ -17,7 +17,11 @@
 char serial_buffer[SERIAL_BUFFER_SIZE] ;
 int sb_index = 0 ;
 int end_index = 0 ;
+<<<<<<< HEAD
 // main 1E
+=======
+// main 1D Testing T3
+>>>>>>> testing
 // Changes
 
 
