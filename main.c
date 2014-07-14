@@ -17,6 +17,9 @@
 char serial_buffer[SERIAL_BUFFER_SIZE] ;
 int sb_index = 0 ;
 int end_index = 0 ;
+// main 1B
+// Changes
+
 
 int togglebit=0;
 int timercount=0;
